@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+        <title>CloudHackr.com</title>
+        <description>CloudHackr.com - </description>
+        <link></link>
+        <link></link>
+        <lastBuildDate>2013-07-11T23:22:23+02:00</lastBuildDate>
+        <pubDate>2013-07-11T23:22:23+02:00</pubDate>
+        <ttl>1800</ttl>
+
+
+        <item>
+                <title>CloudHackr.com is online</title>
+                <description>&lt;p&gt;Welcome.&lt;/p&gt;
+
+</description>
+                <link>/articles/Houston-we-are-online</link>
+                <guid>/articles/Houston-we-are-online</guid>
+                <pubDate>2013-07-11T00:00:00+02:00</pubDate>
+        </item>
+
+
+</channel>
+</rss>
