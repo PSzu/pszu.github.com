@@ -1,5 +1,4 @@
 
-/theme-setup/index.html
 /categories.html
 /tags.html
 /index.html
